@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\CanlıHavaDurumu\bin\Debug\CanlıHavaDurumu.exe.config
+C:\Users\ramse\source\repos\CanlıHavaDurumu\bin\Debug\CanlıHavaDurumu.exe
+C:\Users\ramse\source\repos\CanlıHavaDurumu\bin\Debug\CanlıHavaDurumu.pdb
+C:\Users\ramse\source\repos\CanlıHavaDurumu\obj\Debug\CanlıHavaDurumu.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\CanlıHavaDurumu\obj\Debug\CanlıHavaDurumu.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\CanlıHavaDurumu\obj\Debug\CanlıHavaDurumu.exe
+C:\Users\ramse\source\repos\CanlıHavaDurumu\obj\Debug\CanlıHavaDurumu.pdb
